@@ -16,7 +16,7 @@
 Fork of WiFiChallenge Lab - Virtualized WiFi pentesting laboratory without the need for physical WiFi cards, using mac80211_hwsim and [vwifi](https://github.com/Raizo62/vwifi) proyect. Project was used in creation of STM Academy on terms of GPL-3.0 license.
 
 ## Manual create VM
-If you want to download the VMware image of the lab [click here](https://github.com/RaulCalvoLaorden/WiFiChallengeLab/tree/main/install).
+If you want to download the VMware image of the lab [click here](https://stmsolutionss-my.sharepoint.com/:u:/g/personal/jakubb_stmcyber_pl/ETIHXwaxLxpBhwea2-QBXbcBiIfUBma9I8cP2NqGrn0-TQ?e=nhlFf4).
 
 ## Author
 
